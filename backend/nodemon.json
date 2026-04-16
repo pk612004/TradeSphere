@@ -1,0 +1,5 @@
+{
+  "watch": ["index.js", "model"],
+  "ext": "js,json",
+  "ignore": [".env"]
+}
