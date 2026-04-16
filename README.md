@@ -1,5 +1,18 @@
 # TradeSphere — Stock Trading Platform
 
+🚀 **Live Demo**
+
+* **Frontend (Landing Page):**
+  https://trade-sphere-theta.vercel.app
+
+* **Trading Dashboard:**
+  https://trade-sphere-8619.vercel.app
+
+* **Backend API:**
+  https://tradesphere-backend-nvxx.onrender.com
+
+---
+
 TradeSphere is a full-stack stock trading web application that simulates how modern trading platforms work.
 Users can view stock prices, buy stocks, and track their holdings and positions in real time through an interactive dashboard.
 
@@ -7,7 +20,7 @@ This project was built to practice real-world backend APIs, database integration
 
 ---
 
-##  Features
+## Features
 
 * Buy stocks from a watchlist
 * View current holdings and positions
@@ -16,10 +29,11 @@ This project was built to practice real-world backend APIs, database integration
 * Interactive charts and analytics
 * Clean and responsive UI
 * Full backend API integration
+* Fully deployed full-stack application
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -36,15 +50,15 @@ This project was built to practice real-world backend APIs, database integration
 
 * MongoDB Atlas
 
-### Tools
+### Deployment
 
-* Git & GitHub
-* REST APIs
-* Nodemon
+* Vercel (Frontend & Dashboard)
+* Render (Backend)
+* MongoDB Atlas (Database)
 
 ---
 
-##  Project Structure
+## Project Structure
 
 TradeSphere/
 │
@@ -57,13 +71,13 @@ TradeSphere/
 
 ---
 
-##  How to Run This Project Locally
+## How to Run This Project Locally
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/pk612004/tradesphere.git
+git clone https://github.com/pk612004/TradeSphere.git
 
-cd tradesphere
+cd TradeSphere
 
 ---
 
@@ -86,7 +100,7 @@ npm install
 
 ---
 
-###  Create environment file
+### 3️⃣ Create environment file
 
 Inside the **backend** folder, create:
 
@@ -99,7 +113,7 @@ MONGO_URL=your_mongodb_connection_string
 
 ---
 
-###  Start the servers
+### 4️⃣ Start the servers
 
 #### Backend
 
@@ -118,7 +132,7 @@ npm start
 
 ---
 
-##  API Endpoints
+## API Endpoints
 
 GET /allHoldings
 GET /allPositions
@@ -128,28 +142,29 @@ These APIs handle fetching and storing trading data.
 
 ---
 
-##  What I Learned From This Project
+## What I Learned From This Project
 
 * How frontend and backend communicate using APIs
 * How to design a REST API using Express
 * How to connect a Node.js server to MongoDB Atlas
 * How to manage application state in React
 * How to structure a full-stack project professionally
-* How to debug real-world errors and deployment issues
+* How to debug real-world deployment issues
+* How to deploy a MERN stack application to cloud services
 
 ---
 
-##  Future Improvements
+## Future Improvements
 
 * Add Sell functionality
 * Add user authentication (login/signup)
-* Deploy project to cloud
 * Add live stock price API
 * Improve performance and error handling
+* Add portfolio analytics
 
 ---
 
-##  Author
+## Author
 
 Prakash Kumar
 B.Tech ECE — 3rd Year
@@ -157,6 +172,6 @@ Aspiring Software Engineer
 
 ---
 
-##  If you found this project useful
+## If you found this project useful
 
-Please consider giving it a star on GitHub.
+Please consider giving it a ⭐ on GitHub.
