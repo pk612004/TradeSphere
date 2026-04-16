@@ -1,11 +1,4 @@
-// // import React from 'react';
-// // function Signup() {
-// //     return ( 
-// //         <h1>pricingPage</h1>
-// //      );
-// // }
 
-// // export default Signup;
 
 import React from "react";
 
@@ -13,7 +6,7 @@ function Signup() {
 
   const handleSignup = () => {
     // redirect to dashboard
-    window.location.href = "http://localhost:3001";
+    window.location.href = "https://trade-sphere-86l9.vercel.app/";
   };
 
   return (
