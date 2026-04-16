@@ -6,7 +6,7 @@
   https://trade-sphere-theta.vercel.app
 
 * **Trading Dashboard:**
-  https://trade-sphere-8619.vercel.app
+  https://trade-sphere-86l9.vercel.app/
 
 * **Backend API:**
   https://tradesphere-backend-nvxx.onrender.com
