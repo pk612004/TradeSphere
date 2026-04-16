@@ -1,6 +1,6 @@
 # TradeSphere — Stock Trading Platform
 
-🚀 **Live Demo**
+ **Live Demo**
 
 * **Frontend (Landing Page):**
   https://trade-sphere-theta.vercel.app
@@ -57,17 +57,6 @@ This project was built to practice real-world backend APIs, database integration
 * MongoDB Atlas (Database)
 
 ---
-
-## Project Structure
-
-TradeSphere/
-│
-├── backend/        → Server, APIs, database models
-├── frontend/       → Landing / main UI
-├── dashboard/      → Trading dashboard
-├── .gitignore
-├── .env.example
-└── README.md
 
 ---
 
